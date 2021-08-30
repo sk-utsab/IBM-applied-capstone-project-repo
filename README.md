@@ -1,1 +1,1 @@
-# IBM-applied-capstone-project-repo
+# IBM-Applied-DataScience-Capstone-Project-repo
